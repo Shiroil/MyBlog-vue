@@ -100,6 +100,7 @@
     }
     #btnEdit{
         position: relative;
+        min-width: 70px;
     }
 
 </style>
